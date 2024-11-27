@@ -1,4 +1,6 @@
-### ENCODER 8TO3 DATAFLOW Modelling
+#EXP5:ENCODER 8-3 DATA FLOW MODELLING
+##NAME:PRAVEEN.S
+##REGISTRATION NO:24901060
 
 **AIM:**
 
@@ -39,17 +41,24 @@ Figure 02  Encoder 8 * 3
 /* write all the steps invloved */
 
 **PROGRAM**
+![image](https://github.com/user-attachments/assets/790ec78f-18dc-4077-9a1f-9b95fcb5af1a)
+
 
 /* Program for Encoder 8 To 3 in Dataflow Modelling and verify its truth table in quartus using Verilog programming. 
 
-Developed by: RegisterNumber:
+Developed by:S.Praveen  RegisterNumber:24901060
 */
 
 **RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling**
+![image](https://github.com/user-attachments/assets/6668a8ae-4000-4814-8b53-f8b6027d763c)
+
+
 
 **TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
 
 **RESULTS**
+![image](https://github.com/user-attachments/assets/b9cc106e-c147-4cd9-b2fc-8b4e386a73da)
+
 
 
 
